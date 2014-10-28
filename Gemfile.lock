@@ -2,12 +2,12 @@ GEM
   remote: https://rubygems.org/
   specs:
     arrayfu (1.0.0)
-    configatron (4.2.0)
+    configatron (4.2.1)
     expansions (0.4.33)
       arrayfu (>= 1.0.0)
       configatron (>= 4.1.0)
       mustache (>= 0.99.5)
-    mustache (0.99.6)
+    mustache (0.99.7)
     thor (0.19.1)
 
 PLATFORMS
@@ -15,4 +15,4 @@ PLATFORMS
 
 DEPENDENCIES
   expansions
-  thor
+  thor (= 0.19.1)
