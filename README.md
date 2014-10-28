@@ -80,7 +80,7 @@ The following is the setup that you WILL need to perform to configure all necess
     ```
    
    Accept the defaults for the remaining prompts  (leave the passphrase blank).  
-3. Navigate to the folder where your ssh key was created (by default your profile ssh folder C:\Users\your_user_name\.ssh)
+3. Navigate to the folder where your ssh key was created (by default your profile ssh folder C:\Users\your_user_name\\.ssh)
 4. Open the file id_rsa.pub and copy the contents to the clipboard.
 5. Login to your account at [github](https://github.com/login).
 6. Navigate to your [ssh settings](https://github.com/settings/ssh)
